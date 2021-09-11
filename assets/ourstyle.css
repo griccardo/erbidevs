@@ -1,0 +1,12 @@
+.moreRounded {
+    border-radius: 25px;
+}
+
+.avatar {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.spacer1 {
+    width: 2rem;
+}
